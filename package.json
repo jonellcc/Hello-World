@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js Express server that responds with a dynamic host message",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
